@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/11_Week.dir/calc.c.o CMakeFiles/11_Week.dir/stack.c.o  -o 11_Week 

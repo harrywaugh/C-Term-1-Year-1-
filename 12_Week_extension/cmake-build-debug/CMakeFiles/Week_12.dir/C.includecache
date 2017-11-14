@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/harry/Desktop/C/12_Week_extension/huffman.c
+tree.h
+/home/harry/Desktop/C/12_Week_extension/tree.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdbool.h
+-
+
+/home/harry/Desktop/C/12_Week_extension/list.c
+list.h
+/home/harry/Desktop/C/12_Week_extension/list.h
+stdlib.h
+-
+stdio.h
+-
+memory.h
+-
+
+/home/harry/Desktop/C/12_Week_extension/list.h
+stdbool.h
+-
+
+/home/harry/Desktop/C/12_Week_extension/tree.c
+stdlib.h
+-
+stdio.h
+-
+memory.h
+-
+tree.h
+/home/harry/Desktop/C/12_Week_extension/tree.h
+
+/home/harry/Desktop/C/12_Week_extension/tree.h
+

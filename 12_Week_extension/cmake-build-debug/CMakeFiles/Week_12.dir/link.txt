@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/Week_12.dir/tree.c.o CMakeFiles/Week_12.dir/huffman.c.o CMakeFiles/Week_12.dir/list.c.o  -o Week_12 

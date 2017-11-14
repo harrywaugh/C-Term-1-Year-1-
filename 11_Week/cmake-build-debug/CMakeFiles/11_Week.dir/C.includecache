@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/harry/Desktop/C/11_Week/calc.c
+stack.h
+/home/harry/Desktop/C/11_Week/stack.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/home/harry/Desktop/C/11_Week/stack.c
+stack.h
+/home/harry/Desktop/C/11_Week/stack.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/harry/Desktop/C/11_Week/stack.h
+stdbool.h
+-
+
